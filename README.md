@@ -1,5 +1,5 @@
-<h3 align="center">My name is Sergey Yakovenko and I'am front-end developer</h3>
-<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
+<h3 align="center"><img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1> My name is Sergey Yakovenko and I'am front-end developer</h3>
+
 
 ##  My skills:
 
