@@ -18,12 +18,15 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Srh-Yakovenko-ua&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github&title_color=2563EB&icon_color=06B6D4&text_color=8B949E&bg_color=00000000" alt="GitHub stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Srh-Yakovenko-ua&layout=compact&hide_border=true&langs_count=8&title_color=2563EB&text_color=8B949E&bg_color=00000000" alt="Top languages" />
-</div>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Srh-Yakovenko-ua&hide_border=true&background=00000000&ring=2563EB&fire=06B6D4&currStreakLabel=2563EB&sideLabels=8B949E&dates=8B949E&currStreakNum=8B949E&sideNums=8B949E" alt="GitHub streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Srh-Yakovenko-ua&hide_border=true&background=00000000&ring=2563EB&fire=06B6D4&currStreakLabel=2563EB&sideLabels=8B949E&dates=8B949E&currStreakNum=8B949E&sideNums=8B949E&stroke=8B949E" alt="GitHub streak" />
+
+  <br /><br />
+
+  <a href="https://github.com/Srh-Yakovenko-ua"><img src="https://img.shields.io/github/followers/Srh-Yakovenko-ua?style=for-the-badge&color=2563EB&logo=github&label=Followers" alt="Followers" /></a>
+  &nbsp;
+  <a href="https://github.com/Srh-Yakovenko-ua/book-nest"><img src="https://img.shields.io/github/stars/Srh-Yakovenko-ua/book-nest?style=for-the-badge&color=06B6D4&logo=github&label=book-nest" alt="book-nest stars" /></a>
+
 </div>
 
 ## ⚔️ CodeWars
