@@ -17,17 +17,13 @@
 
 ## 📊 GitHub Stats
 
-<div align="center">
-
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Srh-Yakovenko-ua&hide_border=true&background=00000000&ring=2563EB&fire=06B6D4&currStreakLabel=2563EB&sideLabels=8B949E&dates=8B949E&currStreakNum=8B949E&sideNums=8B949E&stroke=8B949E" alt="GitHub streak" />
-
-  <br /><br />
-
-  <a href="https://github.com/Srh-Yakovenko-ua"><img src="https://img.shields.io/github/followers/Srh-Yakovenko-ua?style=for-the-badge&color=2563EB&logo=github&label=Followers" alt="Followers" /></a>
+<p align="center">
+  <a href="https://github.com/Srh-Yakovenko-ua"><img src="https://img.shields.io/github/followers/Srh-Yakovenko-ua?style=for-the-badge&logo=github&logoColor=white&label=Followers&color=2563EB" alt="Followers" /></a>
   &nbsp;
-  <a href="https://github.com/Srh-Yakovenko-ua/book-nest"><img src="https://img.shields.io/github/stars/Srh-Yakovenko-ua/book-nest?style=for-the-badge&color=06B6D4&logo=github&label=book-nest" alt="book-nest stars" /></a>
-
-</div>
+  <a href="https://github.com/Srh-Yakovenko-ua/book-nest"><img src="https://img.shields.io/github/stars/Srh-Yakovenko-ua/book-nest?style=for-the-badge&logo=github&logoColor=white&label=book-nest&color=06B6D4" alt="book-nest stars" /></a>
+  &nbsp;
+  <img src="https://img.shields.io/badge/Focus-Backend_%C2%B7_NestJS-10B981?style=for-the-badge&logo=nestjs&logoColor=white" alt="Focus: Backend · NestJS" />
+</p>
 
 ## ⚔️ CodeWars
 
