@@ -7,7 +7,7 @@
 </picture>
 
 <p>
-  <a href="https://book-nest.net"><img src="https://img.shields.io/badge/Portfolio-book--nest.net-2563EB?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://book-nest.net"><img src="https://img.shields.io/badge/Website-book--nest.net-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website" /></a>
   <a href="https://www.linkedin.com/in/serhii-yakovenko/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://t.me/serhii_y_ua"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" /></a>
   <a href="mailto:yakovenko.sergey.work@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
